@@ -1,0 +1,6 @@
+# Copy this file to "local.properties" (same folder) and fill in your real values.
+# local.properties is in .gitignore, so your secrets are never committed.
+spring.datasource.username=root
+spring.datasource.password=YOUR_MYSQL_PASSWORD
+# Any long random text, at least 32 characters:
+app.jwt.secret=replace-this-with-a-long-random-secret-text-123456

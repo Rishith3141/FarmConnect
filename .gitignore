@@ -1,0 +1,8 @@
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+backend/target/
+backend/local.properties
+.env
+*.log
